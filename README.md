@@ -35,7 +35,7 @@
 	- Select 'Network inventory (SNMP)' in 'Module method'
 	- Click Update
 ![img](http://image.prntscr.com/image/5dfe41add3a14f9f9ad529afaac532dc.png)
-1.Add IP range(s)
+1. Add IP range(s)
 	- Networking > IP ranges
 ![img](http://image.prntscr.com/image/7ce661b9a4d54296a77fa0fd7288fb78.png)
 	- Define network name, Start IP and End IP.
