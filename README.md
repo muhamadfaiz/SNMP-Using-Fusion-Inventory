@@ -1,5 +1,5 @@
 # Inventorizing SNMP Devices Using Fusion Inventory (FI)
-
+This is final branch
 1. Install FI agent in 1 computer located in the discovered network.
 	- For Windows - https://github.com/tabad/fusioninventory-agent-windows-installer/releases/download/2.3.18/fusioninventory-agent_windows-x64_2.3.18.exe
 2. Install NMAP
